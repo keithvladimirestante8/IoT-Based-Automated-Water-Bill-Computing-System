@@ -33,7 +33,7 @@ google-services.json
 # Android Profiling
 *.hprof
 
-# --- Arduino Specific ---
+# Arduino Specific
 applet/
 *.o
 *.elf
